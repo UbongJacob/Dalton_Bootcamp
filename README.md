@@ -14,6 +14,7 @@ Dalton Bootcamp is an upcomming bootcamp for web design and development, <br />R
 <div background-color="red" >
 <img src="./demo-images/desktop.jpg" alt="Desktop Demo">
 <br/>
+<br/>
 <img src="./demo-images/mobile.jpg" alt="Mobile Demo">
 </div>
 
@@ -39,13 +40,13 @@ To run **Dalton Bootcamp** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://ubongjacob.github.io/Dalton_Bootcamp.git
+sudo git clone https://github.com/UbongJacob/Dalton_Bootcamp.git
 ```
 
 Windows:
 
 ```bash
-git clone https://ubongjacob.github.io/Dalton_Bootcamp.git
+git clone https://github.com/UbongJacob/Dalton_Bootcamp.git
 ```
 
 ### <a href="https://ubongjacob.github.io/Dalton_Bootcamp"><strong>➥ Live Demo</strong></a>
