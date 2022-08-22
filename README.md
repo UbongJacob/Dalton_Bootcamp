@@ -1,7 +1,7 @@
 <div align="center">
-  <h2 align="center">Prixima - Digital Agency Website</h2>
+  <h2 align="center">Dalton Bootcamo</h2>
 
-Dalton Bootcamp is a fully responsive digital agency website, <br />Responsive for all devices, built using HTML, CSS, JavaScript and Bootstrap.
+Dalton Bootcamp is an upcomming bootcamp for web design and development, <br />Responsive for all devices, built using HTML, CSS, JavaScript and Bootstrap.
 
 ## <a href="https://ubongjacob.github.io/Dalton_Bootcamp"><strong>➥ Run a Live Demo Of This Project </strong></a>
 
