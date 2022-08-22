@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Dalton Bootcamo</h2>
+  <h2 align="center">Dalton Bootcamp</h2>
 
 Dalton Bootcamp is an upcomming bootcamp for web design and development, <br />Responsive for all devices, built using HTML, CSS, JavaScript and Bootstrap.
 
